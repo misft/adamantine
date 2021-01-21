@@ -1,0 +1,19 @@
+{
+    "name": "adamantine/adamantine",
+    "description": "Laravel web admin generator",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "misft",
+            "email": "indrawandwiprasetyo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Adamantine\\Adamantine\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
